@@ -1,6 +1,6 @@
 # cryptography is required for heroku deployment
 # cryptography==1.3.2
-django==5.2.16
+django==5.2.17
 coverage==4.5.4
 dj-database-url==0.2.1
 gunicorn==22.0.0
